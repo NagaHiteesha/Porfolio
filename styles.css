@@ -87,7 +87,7 @@ h1{
     font-size: 20px;
 }
 
-.work{
+.work p{
     display: flex;
     align-items: center;
     justify-content: center;
